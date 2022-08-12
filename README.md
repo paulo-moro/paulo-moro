@@ -1,7 +1,7 @@
 ### Olá! Sou Paulo Moro👋
 </br>
 <section style="display:flex; width:300px; justify-content: space-between">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="gmail" href="#">/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="gmail" href="#"/>
     <p style="vertical-align=middle;">paulo.morolol@gmail.com</p> 
     
 </section>
