@@ -1,5 +1,16 @@
 ### Olá! Sou Paulo Moro👋
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</br>
+<section style="display:flex; width:300px; justify-content: space-between">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="gmail"/>
+    <p style="vertical-align=middle;">paulo.morolol@gmail.com</p> 
+    
+</section>
+</br>
+<section style="display:flex; width:250px;justify-content: space-between">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<p style="vertical-align=middle;">(41)99675-2757</p> 
+</section>
+</br>
 
 ![Paulo-moro's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-moro&show_icons=true&theme=radical)
 
