@@ -5,7 +5,6 @@
     <p style="vertical-align=middle;">paulo.morolol@gmail.com</p> 
     
 </section>
-</br>
 <section style="display:flex; width:250px;justify-content: space-between">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <p style="vertical-align=middle;">(41)99675-2757</p> 
@@ -13,6 +12,8 @@
 </br>
 
 ![Paulo-moro's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-moro&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-moro&layout=compact)](https://github.com/paulo-moro/github-readme-stats)
 
 
 
