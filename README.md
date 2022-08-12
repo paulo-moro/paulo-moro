@@ -1,12 +1,12 @@
 ### Olá! Sou Paulo Moro👋
 </br>
 <section style="display:flex; width:300px; justify-content: space-between">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt ="gmail" href="#">/>
     <p style="vertical-align=middle;">paulo.morolol@gmail.com</p> 
     
 </section>
 <section style="display:flex; width:250px;justify-content: space-between">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="#"/>
 <p style="vertical-align=middle;">(41)99675-2757</p> 
 </section>
 </br>
