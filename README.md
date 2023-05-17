@@ -11,11 +11,6 @@
 </section>
 </br>
 
-![Paulo-moro's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-moro&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-moro&layout=compact)](https://github.com/paulo-moro/github-readme-stats)
-
-
 
 ## Tecnologias que uso no dia a dia 
 
