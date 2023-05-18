@@ -41,5 +41,5 @@
         Minha história com a tecnologia se inicia na infância, quando eu ficava imaginando como eram feitos os jogos que eu mais gostava na época. Quando cresci, continuei com meus hobbies em jogos, e inclusive iniciei um projeto em parceria com um amigo para desenvolver um servidor off line de um jogo, que, apesar das dificuldades da época, foi muito divertido e me despertou a vontade de seguir essa área como carreira. 
         Tenho uma personalidade naturalmente curiosa, e gosto de aprender e compartilhar o que sei. Geralmente nos locais onde já trabalhei acabo me envolvendo com o treinamento e suporte às pessoas que acabaram de entrar na empresa. Atualmente estou em transição de carreira, buscando me recolocar no mercado de trabalho como desenvolvedor e colocar em prática todos os meus conhecimentos.
 </p>
-    <p>Sou naturalmente curioso, gosto de novas experiências, atualmente estudando progamação na @Kenzie-Academy-Brasil</p>
+    <p>Sou naturalmente curioso, gosto de novas experiências, atualmente conclui o curso de formação full stach na @Kenzie-Academy-Brasil, já tive a oportunidade de trabalhar com Vue.js 2.0 e node/express</p>
 </section>
